@@ -1,0 +1,4 @@
+# os/.cargo/config
+# 移除标准库依赖
+[build]
+target = "riscv64gc-unknown-none-elf"
